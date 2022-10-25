@@ -1,0 +1,28 @@
+#titulo1 {
+    background-color:aqua; 
+    color: black;
+    text-align: center;
+}
+
+
+.titulo2 {
+    background-color: crimson;
+    width: 200px;
+    height: 200px;
+}
+
+
+.centradito {
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+}
+
+p{
+    color: chartreuse;
+    font-size: 2opx;
+}
+
+
+    
+

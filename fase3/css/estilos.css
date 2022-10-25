@@ -1,0 +1,61 @@
+.encabezado{
+    background-color: teal;
+    padding: 30px;
+    text-align: center;
+}
+.navegacion{
+    background-color: cornflowerblue;
+    padding: 30px;
+    margin: 20px;
+}
+
+.contenido{
+    background-color: cadetblue;
+    padding: 30px;
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr 1fr;
+}
+
+.principal{
+    background-color: cyan;
+    padding: 30px;
+    grid-column: 1/4 ;
+}
+
+.lateral{
+    background-color: darkslategrey;
+    padding: 30px;
+    grid-column: 4/5;
+}
+
+.pie{
+    background-color: lightblue;
+    padding: 30px;
+    margin: 20px;
+}
+
+.menu{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.texto1{
+    padding: 20px;
+    display: grid;
+    grid-template-columns:1fr 1fr 1fr;
+}
+
+.derecha{
+    text-align: right;
+}
+
+.centro{
+    text-align: center;
+}
+
+.divid{
+    padding: 20px;
+    display: grid;
+    grid-template-columns:1fr 1fr ;
+}
