@@ -19,7 +19,7 @@
 .principal{
     background-color: cyan;
     padding: 30px;
-    grid-column: 1/4 ;
+    grid-column: 1/4;
 }
 
 .lateral{
